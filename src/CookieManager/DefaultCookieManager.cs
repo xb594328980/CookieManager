@@ -5,7 +5,7 @@ using CookieManager;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 
-namespace Cells.SOLib
+namespace CookieManager
 {
     /// <summary>
 	/// Implementation of <see cref="ICookieManager" /> 
